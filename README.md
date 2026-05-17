@@ -1,5 +1,8 @@
-# Anshu
-# Anshu Kumar Singh - Portfolio & Projects
+
+# Anshu Kumar Singh -Resume
+<p align="center">
+  <img src=""C:\Users\DELL\Downloads\WhatsApp Image 2026-05-14 at 2.55.41 PM.jpeg"K" width="180" height="180" style="border-radius:50%;">
+</p>
 
 ## About Me
 Hi, I'm **Anshu Kumar Singh**, a motivated and enthusiastic BCA student with a strong interest in frontend web development and modern web technologies. I enjoy building responsive and user-friendly web applications while continuously improving my technical and problem-solving skills.
@@ -68,19 +71,17 @@ A college newspaper management platform where:
 - Admin/User Authentication Pages
 
 ---
-
-## Languages Known
-- English
-- Hindi
-- Kannada
-
 ---
 
 ## Interests
 - Sports
 - Learning New Technologies
 - Web Development
-
+- 
+## Languages Known
+- English
+- Hindi
+- Kannada
 ---
 
 ## Declaration
