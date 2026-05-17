@@ -5,7 +5,7 @@
 Hi, I'm **Anshu Kumar Singh**, a motivated and enthusiastic BCA student with a strong interest in frontend web development and modern web technologies. I enjoy building responsive and user-friendly web applications while continuously improving my technical and problem-solving skills.
 
 📍BALLARI, Karnataka, India  
-📧 kumaranshusingh07@gmail.com  
+📧anshusingh8852@gmail.com  
 📞 8951656684  
 
 ---
